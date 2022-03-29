@@ -1,0 +1,13 @@
+html {
+    font-size: 150px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.4;
+    }
+
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
